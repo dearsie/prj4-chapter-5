@@ -1,0 +1,23 @@
+.cute {
+	color: lightpink;
+	padding: 0.5em; 
+	border-bottom:2px dotted lightpink;
+}
+.people {
+	color: lightpink;
+	text-align: right;
+	padding: 1em; 
+	line-height:50%;
+	text-shadow: 1px 1px #D6033D;
+}
+#lorem-ipsum {
+	color: grey;
+	background-color: #DFDFDF;
+	border: 2px dotted lightpink;
+	border-radius: 25px;
+	text-align: center;
+	padding: 1em; 
+	margin:20px;
+	width:400px;
+	text-align:justify;
+}
